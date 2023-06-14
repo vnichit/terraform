@@ -1,0 +1,11 @@
+rgname = "devrg"
+location = "westus"
+vnet = "prod-vnet"
+address_space = ["172.168.0.0/16"]
+sbnet="prod-sbnet"
+address_prefixes=["172.168.1.0/24"]
+nic_name="nic1"
+vm_name="vm1"
+vm_size="Standard_B2s"
+username="admin1001"
+password="password@123"
